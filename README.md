@@ -1,4 +1,4 @@
-This project explain how to explore a dataset by using python and statistics.
+This project explains how to explore a dataset by using python and statistics.
 
 
 data from：
